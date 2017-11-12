@@ -5,6 +5,7 @@ h1, h2, p, ul {
 
   p.main-text {
     margin-top: 5px;
+    color: red;
   }
   
   ul li {
